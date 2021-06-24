@@ -68,9 +68,9 @@ Creator_id int,
 Create_date date
 );
 
-Create table ExamQuestion (
-Exam_id int,
-Question_id int
+CREATE TABLE ExamQuestion (
+    Exam_id INT,
+    Question_id INT
 );
 
 
