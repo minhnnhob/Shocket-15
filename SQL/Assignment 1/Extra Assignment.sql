@@ -23,4 +23,14 @@ CREATE TABLE IF NOT EXISTS Trainee (
 
 ALTER TABLE Trainee
     ADD VTI_Account varchar(70) not null unique key;
+    
+--day la cmit 
+
+
+
+
+
+
+    
+    
 
